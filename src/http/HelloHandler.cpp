@@ -2,7 +2,7 @@
 
 HelloHandler::HelloHandler()
 {
-    path = "/hello";
+    path = "/hello/";
 }
 
 void HelloHandler::handleRequest(const HttpRequest request, HttpResponse &response)

@@ -6,7 +6,7 @@ Router::Router()
     shared_ptr<RequestHandler> helloHandler = make_shared<HelloHandler>();
 
 
-    routes["/hello"] = helloHandler;
+    routes["/hello/"] = helloHandler;
 }
 void Router::addRoute(const string path, shared_ptr<RequestHandler> handler)
 {
