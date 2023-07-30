@@ -1,0 +1,149 @@
+[INFO] [2023-6-27 20:14:39] [threadpool_create : 32] 成功创建3个线程
+[INFO] [2023-6-27 20:14:39] [threadpool_create : 34] 创建管理者线程：140509905360640
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:14:39] [threadpool_thread : 77] 线程 pid=140509930538752，开始工作
+[DEBUG] [2023-6-27 20:14:39] [threadpool_thread : 77] 线程 pid=140509922146048，开始工作
+[DEBUG] [2023-6-27 20:14:39] [threadpool_thread : 77] 线程 pid=140509913753344，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 86] 线程 pid=140509930538752，工作结束
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 86] 线程 pid=140509922146048，工作结束
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509930538752，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509922146048，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 86] 线程 pid=140509913753344，工作结束
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509913753344，开始工作
+[DEBUG] [2023-6-27 20:14:49] [adjust_thread : 110] 任务队列超过阈值:[14]，创建线程
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509896967936，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509888575232，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509880182528，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509871789824，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509653759744，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509645367040，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509636974336，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509628581632，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509620188928，开始工作
+[DEBUG] [2023-6-27 20:14:49] [threadpool_thread : 77] 线程 pid=140509611796224，开始工作
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509930538752，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509922146048，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 77] 线程 pid=140509930538752，开始工作
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 77] 线程 pid=140509922146048，开始工作
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509913753344，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 77] 线程 pid=140509913753344，开始工作
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509896967936，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509888575232，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 77] 线程 pid=140509896967936，开始工作
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509880182528，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509871789824，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509653759744，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509645367040，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509636974336，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509628581632，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509620188928，工作结束
+[DEBUG] [2023-6-27 20:14:59] [threadpool_thread : 86] 线程 pid=140509611796224，工作结束
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 86] 线程 pid=140509930538752，工作结束
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 86] 线程 pid=140509922146048，工作结束
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 86] 线程 pid=140509913753344，工作结束
+[DEBUG] [2023-6-27 20:15:9] [adjust_thread : 127] 空闲线程超过阈值:[12]，销毁线程
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 55] 线程 pid=140509888575232，结束运行
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 55] 线程 pid=140509880182528，结束运行
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 55] 线程 pid=140509653759744，结束运行
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 55] 线程 pid=140509871789824，结束运行
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 55] 线程 pid=140509645367040，结束运行
+[DEBUG] [2023-6-27 20:15:9] [threadpool_thread : 86] 线程 pid=140509896967936，工作结束
+[INFO] [2023-6-27 20:16:19] [threadpool_destroy : 171] 销毁线程池中...
+[DEBUG] [2023-6-27 20:16:19] [threadpool_thread : 65] 线程 pid=140509636974336，结束运行
+[DEBUG] [2023-6-27 20:16:19] [threadpool_thread : 65] 线程 pid=140509628581632，结束运行
+[DEBUG] [2023-6-27 20:16:19] [threadpool_thread : 65] 线程 pid=140509620188928，结束运行
+[DEBUG] [2023-6-27 20:16:19] [threadpool_thread : 65] 线程 pid=140509611796224，结束运行
+[DEBUG] [2023-6-27 20:16:19] [threadpool_thread : 65] 线程 pid=140509930538752，结束运行
+[DEBUG] [2023-6-27 20:16:19] [threadpool_thread : 65] 线程 pid=140509922146048，结束运行
+[DEBUG] [2023-6-27 20:16:19] [threadpool_thread : 65] 线程 pid=140509913753344，结束运行
+[DEBUG] [2023-6-27 20:16:19] [threadpool_thread : 65] 线程 pid=140509896967936，结束运行
+[INFO] [2023-6-27 20:24:16] [threadpool_create : 32] 成功创建3个线程
+[INFO] [2023-6-27 20:24:16] [threadpool_create : 34] 创建管理者线程：140515831813888
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_thread : 77] 线程 pid=140515840206592，开始工作
+[DEBUG] [2023-6-27 20:24:16] [threadpool_thread : 77] 线程 pid=140515848599296，开始工作
+[DEBUG] [2023-6-27 20:24:16] [threadpool_thread : 77] 线程 pid=140515856992000，开始工作
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:16] [threadpool_add_task : 153] 向线程池添加任务
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 86] 线程 pid=140515840206592，工作结束
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515840206592，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 86] 线程 pid=140515848599296，工作结束
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515848599296，开始工作
+[DEBUG] [2023-6-27 20:24:26] [adjust_thread : 110] 任务队列超过阈值:[15]，创建线程
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 86] 线程 pid=140515856992000，工作结束
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515856992000，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515806635776，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515789850368，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515823421184，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515773064960，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515781457664，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515550947072，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515798243072，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515815028480，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515542554368，开始工作
+[DEBUG] [2023-6-27 20:24:26] [threadpool_thread : 77] 线程 pid=140515559339776，开始工作
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515840206592，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515848599296，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 77] 线程 pid=140515840206592，开始工作
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 77] 线程 pid=140515848599296，开始工作
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515856992000，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 77] 线程 pid=140515856992000，开始工作
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515806635776，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 77] 线程 pid=140515806635776，开始工作
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515789850368，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515823421184，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515773064960，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515781457664，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515550947072，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515798243072，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515815028480，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515542554368，工作结束
+[DEBUG] [2023-6-27 20:24:36] [threadpool_thread : 86] 线程 pid=140515559339776，工作结束
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 86] 线程 pid=140515840206592，工作结束
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 86] 线程 pid=140515848599296，工作结束
+[DEBUG] [2023-6-27 20:24:46] [adjust_thread : 127] 空闲线程超过阈值:[11]，销毁线程
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 55] 线程 pid=140515789850368，结束运行
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 86] 线程 pid=140515856992000，工作结束
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 86] 线程 pid=140515806635776，工作结束
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 55] 线程 pid=140515823421184，结束运行
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 55] 线程 pid=140515550947072，结束运行
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 55] 线程 pid=140515773064960，结束运行
+[DEBUG] [2023-6-27 20:24:46] [threadpool_thread : 55] 线程 pid=140515781457664，结束运行
+[INFO] [2023-6-27 20:25:56] [threadpool_destroy : 171] 共8个线程,销毁线程池中...
+[INFO] [2023-6-27 20:25:56] [threadpool_destroy : 177] 销毁线程池完成
